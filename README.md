@@ -1,5 +1,5 @@
 # Resume
-A resume I and a friend of mine will make. Will end up as a quick one-off project or real resumes.
+A resume I, Seven32672 and a friend of mine, @fours will make. Will end up as a quick one-off project or real resumes.
 
 # How to view
 
