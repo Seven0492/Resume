@@ -1,3 +1,7 @@
+a:hover {
+    color: orange;
+}
+
 /* Split the screen in half */
 .split {
     height: 100%;
@@ -23,7 +27,8 @@
 /* Control the right side */
 .right {
     right: 0;
-    background-color: #111; /* Choose a color */
+    background-color: rgb(87, 49, 175);
+    /* Choose a color */
 }
 
 .right * {
