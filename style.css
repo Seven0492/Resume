@@ -1,4 +1,17 @@
+* {
+    text-align: center;
+}
+
 header {
     text-align: center;
+    font-size: 150%;
     font-family: garamond;
+}
+
+a {
+    font-size: 150%;
+}
+
+a:hover {
+    color: orange;
 }
