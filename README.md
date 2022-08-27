@@ -5,6 +5,8 @@ A resume I, Seven32672 and a friend of mine, @fours will make. Will end up as a 
 
 There are two ways:
 
-1. Visit this Github page: https://seven0492.github.io/Resume/
+<ol>
+  <li>Visit this Github page: https://seven0492.github.io/Resume/</li>
 
-2. Clone the repository and open index.html in your browser.
+  <li>Clone the repository and open index.html in your browser.</li>
+</ol>
